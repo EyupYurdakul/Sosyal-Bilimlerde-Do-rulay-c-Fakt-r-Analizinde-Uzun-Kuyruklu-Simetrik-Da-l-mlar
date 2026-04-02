@@ -1,2 +1,2 @@
-# Sosyal-Bilimlerde-Do-rulay-c-Fakt-r-Analizinde-Uzun-Kuyruklu-Simetrik-Da-l-mlar
+# Sosyal Bilimlerde Dogrulayıcı Faktor Analizinde Uzun Kuyruklu Simetrik Daglımlar
 Sosyal Bilimlerde Doğrulayıcı Faktör Analizinde Uzun Kuyruklu Simetrik Dağılımlar: Normallik İhlallerine Dayanıklı Parametre Tahmini
